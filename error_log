@@ -1,0 +1,69 @@
+[29-Mar-2019 18:03:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/a9x9tbywll65/public_html/connection.php on line 7
+[29-Mar-2019 18:03:56 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/a9x9tbywll65/public_html/connection.php on line 9
+[29-Mar-2019 18:03:56 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 3
+[29-Mar-2019 18:03:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 5
+[29-Mar-2019 18:03:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 7
+[29-Mar-2019 18:03:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 9
+[29-Mar-2019 18:03:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 11
+[29-Mar-2019 18:03:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 82
+[29-Mar-2019 18:03:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 95
+[29-Mar-2019 18:03:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 112
+[29-Mar-2019 18:03:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 138
+[29-Mar-2019 18:03:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 158
+[29-Mar-2019 18:07:55 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'umairzia'@'localhost' to database 'dd2' in /home/a9x9tbywll65/public_html/connection.php on line 7
+[29-Mar-2019 18:07:55 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/a9x9tbywll65/public_html/connection.php on line 9
+[29-Mar-2019 18:07:55 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 3
+[29-Mar-2019 18:07:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 5
+[29-Mar-2019 18:07:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 7
+[29-Mar-2019 18:07:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 9
+[29-Mar-2019 18:07:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 11
+[29-Mar-2019 18:07:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 82
+[29-Mar-2019 18:07:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 95
+[29-Mar-2019 18:07:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 112
+[29-Mar-2019 18:07:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 138
+[29-Mar-2019 18:07:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 158
+[29-Mar-2019 18:09:00 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'umairzia'@'localhost' to database 'dd2' in /home/a9x9tbywll65/public_html/connection.php on line 7
+[29-Mar-2019 18:09:00 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/a9x9tbywll65/public_html/connection.php on line 9
+[29-Mar-2019 18:09:00 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 3
+[29-Mar-2019 18:09:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 5
+[29-Mar-2019 18:09:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 7
+[29-Mar-2019 18:09:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 9
+[29-Mar-2019 18:09:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 11
+[29-Mar-2019 18:09:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 82
+[29-Mar-2019 18:09:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 95
+[29-Mar-2019 18:09:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 112
+[29-Mar-2019 18:09:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 138
+[29-Mar-2019 18:09:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 158
+[29-Mar-2019 18:11:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'umairzia'@'localhost' to database 'dd2' in /home/a9x9tbywll65/public_html/connection.php on line 7
+[29-Mar-2019 18:11:13 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/a9x9tbywll65/public_html/connection.php on line 9
+[29-Mar-2019 18:11:13 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 3
+[29-Mar-2019 18:11:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 5
+[29-Mar-2019 18:11:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 7
+[29-Mar-2019 18:11:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 9
+[29-Mar-2019 18:11:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 11
+[29-Mar-2019 18:11:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 82
+[29-Mar-2019 18:11:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 95
+[29-Mar-2019 18:11:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 112
+[29-Mar-2019 18:11:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 138
+[29-Mar-2019 18:11:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 158
+[29-Mar-2019 18:14:24 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'umairzia'@'localhost' to database 'dd2' in /home/a9x9tbywll65/public_html/connection.php on line 7
+[29-Mar-2019 18:14:24 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/a9x9tbywll65/public_html/connection.php on line 9
+[29-Mar-2019 18:14:24 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 3
+[29-Mar-2019 18:14:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 5
+[29-Mar-2019 18:14:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 7
+[29-Mar-2019 18:14:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 9
+[29-Mar-2019 18:14:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/a9x9tbywll65/public_html/index.php on line 11
+[29-Mar-2019 18:14:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 82
+[29-Mar-2019 18:14:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 95
+[29-Mar-2019 18:14:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 112
+[29-Mar-2019 18:14:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 138
+[29-Mar-2019 18:14:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a9x9tbywll65/public_html/index.php on line 158
+[24-Jun-2019 13:25:31 UTC] PHP Notice:  Undefined index: fileToUpload in /home/a9x9tbywll65/public_html/upload.php on line 16
+[24-Jun-2019 13:25:31 UTC] PHP Notice:  Undefined index: title in /home/a9x9tbywll65/public_html/upload.php on line 18
+[24-Jun-2019 13:25:31 UTC] PHP Notice:  Undefined index: detail in /home/a9x9tbywll65/public_html/upload.php on line 19
+[24-Jun-2019 13:25:31 UTC] PHP Notice:  Undefined index: type in /home/a9x9tbywll65/public_html/upload.php on line 21
+[29-Jun-2019 13:23:00 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/a9x9tbywll65/public_html/upload.php on line 35
+[11-Jul-2019 16:30:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/a9x9tbywll65/public_html/detail.php on line 9
+[11-Jul-2019 16:30:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/a9x9tbywll65/public_html/detail.php on line 9
+[11-Jul-2019 16:31:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/a9x9tbywll65/public_html/detail.php on line 9
+[11-Jul-2019 16:31:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/a9x9tbywll65/public_html/detail.php on line 9
